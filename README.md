@@ -75,5 +75,23 @@ python3 respond.py
 Output of `respond.py` script:
 
 
+## Project Structure
+```
+security-automation/
+├── log_monitoring/
+│   ├── monitor.py
+│   ├── requirements.txt
+│   └── logs/
+├── policy_enforcement/
+│   ├── enforce.py
+│   ├── requirements.txt
+│   └── policies/
+├── incident_response/
+│   ├── respond.py
+│   ├── requirements.txt
+│   └── incidents/
+└── README.md
+```
+
 ## License
 This project is licensed under the MIT License.
