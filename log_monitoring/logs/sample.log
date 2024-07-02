@@ -1,3 +1,5 @@
+logs/sample.log
+
 2024-07-01 12:00:00 INFO User logged in
 2024-07-01 12:05:00 ERROR Failed login attempt
 2024-07-01 12:10:00 INFO User logged out
