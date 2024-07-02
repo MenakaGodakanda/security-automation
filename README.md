@@ -52,7 +52,8 @@ cd log_monitoring
 python3 monitor.py
 ```
 
-Output of `monitor.py` script:
+Output of `monitor.py` script:<br><br>
+![Screenshot 2024-07-02 160639](https://github.com/MenakaGodakanda/security-automation/assets/156875412/e880ba27-0b76-4377-ad2d-c5fd092ae5a6)
 
 
 #### Security Policy Enforcement:
@@ -62,7 +63,8 @@ cd policy_enforcement
 python3 enforce.py
 ```
 
-Output of `enforce.py` script:
+Output of `enforce.py` script:<br><br>
+![Screenshot 2024-07-02 160755](https://github.com/MenakaGodakanda/security-automation/assets/156875412/f532ad41-4d30-4357-9362-9ff13b181016)
 
 
 #### Incident Response:
@@ -72,7 +74,8 @@ cd incident_response
 python3 respond.py
 ```
 
-Output of `respond.py` script:
+Output of `respond.py` script:<br><br>
+![Screenshot 2024-07-02 160905](https://github.com/MenakaGodakanda/security-automation/assets/156875412/22e9463d-0424-4a03-aaa9-82b6b20a21dd)
 
 
 ## Project Structure
