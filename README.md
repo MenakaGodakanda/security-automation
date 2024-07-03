@@ -1,6 +1,7 @@
 # Security Automation Project
 
-This project contains scripts to automate security tasks such as log monitoring, security policy enforcement, and incident response.
+This project contains scripts to automate security tasks such as log monitoring, security policy enforcement, and incident response.<br>
+<a href="https://github.com/MenakaGodakanda/security-automation/blob/main/Project_Description.md">Project Description</a>
 
 ## Overview
 
